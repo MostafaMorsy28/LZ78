@@ -1,0 +1,9 @@
+<Index In Dictionary, Next Character>
+<0, q>
+<0, w>
+<0, r>
+<0, t>
+<1, w>
+<0, d>
+<0, s>
+<0, a>
